@@ -1,0 +1,28 @@
+name: 'Wedding Q&A'
+favicon: null
+layout_spectrum: 0.7111406023614109
+typography_spectrum: 0.8622563092503697
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9765370693057775
+  lightness: 0.4093318509403616
+  saturation: 0.722134853946045
+  rhythmicContrast: 0.45295698032714427
+purpose: []
