@@ -1,9 +1,7 @@
-favicon: null
 name: 'Wedding Q&A'
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.65139
+typography_spectrum: 0.33239
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.722134853946045
-  brandStrength: 0.9765370693057775
-  rhythmicContrast: 0.4529569803271443
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+  brandStrength: 0.9765370693057775
   lightness: 0.4093318509403616
-typography_spectrum: 0.8622563092503697
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.594522
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.722134853946045
+  rhythmicContrast: 0.4529569803271443
+purpose: []
