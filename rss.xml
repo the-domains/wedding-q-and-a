@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wedding Q&A]]></title>
+        <description><![CDATA[Wedding Q&A]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 31 Dec 2015 01:23:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How can I help?]]></title>
+            <description><![CDATA[<article><h1>How can I help?</h1><p>Just use #QandAWeddings on Twitter or Instagram and I'll get back to you asap...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cedfd4a-20ab-4964-bede-21d1a1784ec8.png"></article>]]></description>
+            <link>undefinedhow-can-i-help/index.html</link>
+            <guid isPermaLink="false">c1aac8a5-936c-4b73-a1e7-2d3edd9d7064</guid>
+            <pubDate>Thu, 31 Dec 2015 01:22:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
