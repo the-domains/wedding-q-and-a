@@ -1,15 +1,18 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: 'Well lets start with something controversial then!'
+datePublished: '2015-12-31T01:47:29.815Z'
+dateModified: '2015-12-31T01:46:49.553Z'
 author:
   - name: rupert_marlow
     url: 'https://www.instagram.com/rupert_marlow'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/07a863f/images/ico/favicon.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1135557649757251529'
     type: ios
@@ -19,15 +22,16 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/_CT6p_wifJ/?taken-by=rupert_marlow'
-title: '"When I grow up..." #WeddingPhotography'
-datePublished: '2015-12-31T01:44:51.383Z'
-dateModified: '2015-12-31T01:30:47.910Z'
+title: Kids or no kids?
 sourcePath: _posts/2015-12-31-when-i-grow-up-weddingphotography.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/07a863f/images/ico/favicon.ico'
+url: kids-or-no-kids/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
